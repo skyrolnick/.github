@@ -67,8 +67,8 @@ Founder of **Invigo Retail**, I design intelligent retail ecosystems that blend 
 
 ## 📊 GitHub Stats
 
-![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyrolnick&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyrolnick&layout=compact&theme=tokyonight)
+![Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=skymeson&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skymeson&layout=compact&theme=tokyonight)
 
 ---
 
